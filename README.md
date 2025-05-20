@@ -1,4 +1,4 @@
-### ### University Event tracker - Grad Project<br><br>
+### ### University Event Tracker - Grad Project<br><br>
 
 <b>📌### Overview </b>
 
